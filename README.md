@@ -29,8 +29,6 @@
 
 [![poiu694's GitHub stats](https://github-readme-stats.vercel.app/api?username=poiu694)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poiu694&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=poiu694)](https://solved.ac/poiu694)
 
