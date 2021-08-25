@@ -7,8 +7,8 @@
 * Google Developer Student Club (GDSC)
 
 ### My Project ! :floppy_disk:
-* Wallet-Expedition :money_with_wings:
-* Detail_AR :8ball:
+* [Wallet-Expedition - MODIMOA](https://github.com/Wallet-expedition/MODIMOA) :money_with_wings:
+* [Detail_AR](https://github.com/poiu694/detail_ar) :8ball:
 
 ### **<p> I Can Use ! </p>**
 <p>
