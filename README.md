@@ -4,7 +4,7 @@
 
 ### Doing Now ! :mag_right:
 * University of Seoul
-* Google Developer Student Club (GDSC)
+* FrontEnd Core Memeber of Google Developer Student Club (GDSC)
 
 ### My Project ! :floppy_disk:
 * [Wallet-Expedition - MODIMOA](https://github.com/Wallet-expedition/MODIMOA) :money_with_wings:
