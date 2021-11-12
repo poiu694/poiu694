@@ -5,6 +5,7 @@
 ### Doing Now ! :mag_right:
 * University of Seoul
 * Frontend Core Memeber of Google Developer Student Club (GDSC)
+* 42 SEOUL Cadet (2021. 11. 01 ~ )
 
 ### My Project ! :floppy_disk:
 * [Wallet-Expedition - MODIMOA](https://github.com/Wallet-expedition/MODIMOA) :money_with_wings:
@@ -32,4 +33,4 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=poiu694)](https://solved.ac/poiu694)
 
-
+[![sangmlee's 42 stats](https://badge42.herokuapp.com/api/stats/sangmlee)](https://github.com/JaeSeoKim/badge42)
