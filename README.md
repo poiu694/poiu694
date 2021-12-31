@@ -33,4 +33,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=poiu694)](https://solved.ac/poiu694)
 
+![GDSC UOS Github Badge](https://gdsc-uos-github-badge.vercel.app/api/color/poiu694)
+
 [![sangmlee's 42 stats](https://badge42.herokuapp.com/api/stats/sangmlee)](https://github.com/JaeSeoKim/badge42)
