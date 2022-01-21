@@ -9,7 +9,7 @@
 
 ### My Project ! :floppy_disk:
 * [Wallet-Expedition - MODIMOA](https://github.com/Wallet-expedition/MODIMOA) :money_with_wings:
-* [Detail_AR](https://github.com/poiu694/detail_ar) :8ball: -> third place in 셈틀제(Contest at Computer Science of University of Seoul)
+* [Detail_AR](https://github.com/DETAIL-AR/detail_ar) :8ball: -> third place in 셈틀제(Contest at Computer Science of University of Seoul)
 
 ### **<p> I Can Use ! </p>**
 <p>
