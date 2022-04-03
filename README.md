@@ -23,7 +23,9 @@
 ------
 - - -
 
-<h3>My Github's Profile</h3>
+<h3>
+  github profile
+</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=poiu694&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff" width=49.2% />
 </a>
@@ -37,16 +39,14 @@
 - - -
 ------
 
-<h3> ETC Profile </h3>
+<h3> others profile </h3>
 
-<div>
-  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=poiu694)](https://solved.ac/poiu694)
+<a href="https://gdsc-uos-github-badge.vercel.app/api/color/poiu694" >
+  <img src="https://gdsc-uos-github-badge.vercel.app/api/color/poiu694" width=49.2% />
+</a>
+<a href="https://solved.ac/profile/poiu694">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=poiu694" width=49.2% />
+</a>
 
-![GDSC UOS Github Badge](https://gdsc-uos-github-badge.vercel.app/api/color/poiu694)
-
-<!--
-[![sangmlee's 42 stats](https://badge42.herokuapp.com/api/stats/sangmlee)](https://github.com/JaeSeoKim/badge42)
--->
-</div>
+- - -
+------
