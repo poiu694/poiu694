@@ -11,6 +11,8 @@
 ### My Project ! :floppy_disk:
 * [Wallet-Expedition - MODIMOA](https://github.com/Wallet-expedition/MODIMOA) :money_with_wings:
 * [Detail_AR](https://github.com/DETAIL-AR/detail_ar) :8ball: -> third place in 셈틀제(Contest at Computer Science of University of Seoul)
+* [GDSC UOS RECRUIT](https://github.com/poiu694/gdsc-uos-recruit-page) 🏫
+* [Proof](https://github.com/mash-up-kr/proof_web) 🍷
 
 ### **<p> My favorite stack </p>**
 <div>
