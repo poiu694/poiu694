@@ -45,15 +45,17 @@
 <h3> others profile </h3>
 
 <a href="https://gdsc-uos-github-badge.vercel.app/api/color/poiu694" >
-  <img src="https://gdsc-uos-github-badge.vercel.app/api/color/poiu694" width=49.2% />
-</a>
-<a href="https://solved.ac/profile/poiu694">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=poiu694" width=49.2% />
+  <img src="https://gdsc-uos-github-badge.vercel.app/api/color/poiu694" width=49.2% height=20% />
 </a>
 
 <a href="https://github.com/JaeSeoKim/badge42">
-  <img src="https://badge42.vercel.app/api/v2/cl1qf1yic015309mt7cftxwxx/stats?cursusId=21&coalitionId=86" width=49.2% />
+  <img src="https://badge42.vercel.app/api/v2/cl1qf1yic015309mt7cftxwxx/stats?cursusId=21&coalitionId=86" width=49.2% height=20%/>
 </a>
+
+<a href="https://solved.ac/profile/poiu694">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=poiu694" width=49.2% height=20% />
+</a>
+
 
 - - -
 ------
