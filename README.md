@@ -4,7 +4,7 @@
 
 ### Doing Now ! :mag_right:
 * University of Seoul
-* Frontend Core Memeber of Google Developer Student Club (GDSC)
+* Google Developer Student Club (GDSC) Frontend Core Member
 * 42 SEOUL Cadet (2021. 11. 01 ~ 2022. 08. )
 * Mash-Up member of Web (2022. 04. 01 ~ )
 
