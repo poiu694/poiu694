@@ -36,7 +36,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=poiu694&theme=react&ring=C691E94D&fire=C691E9&sideNums=C691E9&currStreakNum=C691E9&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=E3E3E3A8&hide_border=true" width=49.2% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=poiu694&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98.4%/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=poiu694&bg_color=ebebeb&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" width=98.4%/>
 </a>
 
 - - -
