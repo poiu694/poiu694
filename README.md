@@ -6,7 +6,7 @@
 * University of Seoul
 * Google Developer Student Club (GDSC) Frontend Core Member
 * 42 SEOUL Cadet (2021. 11. 01 ~ 2022. 08. )
-* Mash-Up member of Web (2022. 04. 01 ~ )
+* Mash-Up member of Web(12, 13) (2022. 04. 01 ~ )
 
 ### My Project ! :floppy_disk:
 * [Wallet-Expedition - MODIMOA](https://github.com/Wallet-expedition/MODIMOA) :money_with_wings:
