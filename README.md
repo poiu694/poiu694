@@ -2,9 +2,9 @@
 
 ### Hi, My Friends ! ✨
 
-### Doing Now ! :mag_right:
+### Activity ! :mag_right:
 * University of Seoul
-* Google Developer Student Club (GDSC) Frontend Core Member
+* Google Developer Student Club (GDSC) Frontend Core Member (2021. 03. 01 ~ )
 * 42 SEOUL Cadet (2021. 11. 01 ~ 2022. 08. )
 * Mash-Up member of Web(12, 13) (2022. 04. 01 ~ )
 
