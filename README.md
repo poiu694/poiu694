@@ -5,7 +5,7 @@
 ------
 - - -
 ### Career
-* KAKAO-BRAIN: Pathfinder 2th (Web Frontend)
+* KAKAO-BRAIN: Pathfinder 2th (Intern, Web Frontend)
 
 - - -
 ------
