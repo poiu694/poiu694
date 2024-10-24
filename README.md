@@ -20,7 +20,7 @@
 ### My Project ! :floppy_disk:
 * [GDSC UOS RECRUIT](https://github.com/poiu694/gdsc-uos-recruit-page) 🏫
 * [PPOBA](https://github.com/mash-up-kr/ppoba) 🃏 -> second place in Mash-UP 13th
-* [Korrk](https://github.com/mash-up-kr/VitaminC_Web)
+* [Korrk](https://github.com/mash-up-kr/VitaminC_Web) 🏴‍☠️
 * [Proof](https://github.com/mash-up-kr/proof_web) 🍷
 * [EGGY](https://github.com/Egg-sushi/EGGY-Web) 🧴
 * [Detail_AR](https://github.com/DETAIL-AR/detail_ar) :8ball: -> third place in 셈틀제(Contest at Computer Science of University of Seoul)
