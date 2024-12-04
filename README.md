@@ -5,26 +5,24 @@
 ------
 - - -
 ### Career
-* KAKAO-BRAIN: Pathfinder 2th (Intern, Web Frontend)
+* KAKAO-BRAIN: Pathfinder 2th Intern ( 2023. 06. ~ 2023. 08. ~)
+* Tmax RG ( 2024. 03. ~ 2024. 10. )
+* Toss Securities (2024. 12. ~ )
 
 - - -
 ------
 
 
 ### Activity ! :mag_right:
-* University of Seoul
-* Google Developer Student Club (GDSC) Frontend Core Member (2021. 03. 01 ~ )
+* University of Seoul (2018. 03 ~ 2024. 02. )
+* Google Developer Student Club (GDSC) Frontend Core Member (2021. 03. 01 ~ 2023. 12. )
 * 42 SEOUL Cadet (2021. 11. 01 ~ 2022. 08. )
-* Mash-Up member of Web, Staff (2022. 04. 01 ~ )
+* Mash-Up member of Web, Staff (2022. 04. 01 ~ 2024. 12. )
 
 ### My Project ! :floppy_disk:
-* [GDSC UOS RECRUIT](https://github.com/poiu694/gdsc-uos-recruit-page) 🏫
 * [PPOBA](https://github.com/mash-up-kr/ppoba) 🃏 -> second place in Mash-UP 13th
 * [Korrk](https://github.com/mash-up-kr/VitaminC_Web) 🏴‍☠️
 * [Proof](https://github.com/mash-up-kr/proof_web) 🍷
-* [EGGY](https://github.com/Egg-sushi/EGGY-Web) 🧴
-* [Detail_AR](https://github.com/DETAIL-AR/detail_ar) :8ball: -> third place in 셈틀제(Contest at Computer Science of University of Seoul)
-
 
 ### **<p> My favorite stack </p>**
 <div>
